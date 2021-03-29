@@ -91,6 +91,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  graphics:
+    output: true
+    permalink: /graphics/:path/
+  teachings:
+    output: true
+    permalink: /teachings/:path/
 
 news_limit: 5
 
@@ -132,6 +138,7 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-jupyter-notebook
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
