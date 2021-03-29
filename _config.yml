@@ -58,7 +58,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I usually reply to e-mails within a week span.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -67,8 +67,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: My blog  # your blog must have a name for it to show up in the nav bar
+blog_description: updates about current projects & misc
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -76,7 +76,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -135,34 +135,8 @@ plugins:
   - jekyll-email-protect
   - jekyll-github-metadata
   - jekyll-paginate-v2
-  - jekyll/scholar
-  - jekyll-twitter-plugin
   - jemoji
 
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
-
-scholar:
-
-  last_name: Einstein
-  first_name: [Albert, A.]
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Optional Features
@@ -172,7 +146,7 @@ enable_google_analytics:    false
 enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
-enable_tooltips:            false
+enable_tooltips:            true
 enable_darkmode:            true
 show_social_icons:          false
 
