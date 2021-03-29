@@ -3,14 +3,14 @@
  ******************************************************************************/
  
 :root {
-  --global-bg-color: #{$white-color};
-  --global-text-color: #{$black-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$light-purple-color};
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
+  --global-bg-color: #{$promenado-white};
+  --global-text-color: #{$promenado-black};
+  --global-theme-color: #{$promenado-primary};
+  --global-hover-color: #{$promenado-primary-dark};
+  --global-footer-bg-color: #{$promenado-primary-dark};
+  --global-footer-text-color: #{$promenado-primary};
   --global-footer-link-color: #{$white-color};
-  --global-icon-color: #{$grey-color-dark};
+  --global-icon-color: #{$promenado-black};
 
   .fa-sun {
     display : none;
@@ -23,14 +23,14 @@
 }
 
 html[data-theme='dark'] {
-  --global-bg-color: #{$grey-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$light-cyan-color};
+  --global-bg-color: #{$promenado-black};
+  --global-text-color: #{$promenado-white};
+  --global-theme-color: #{$promenado-dark};
+  --global-hover-color: #{$promenado-dark-light};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
-  --global-icon-color: navajowhite;
+  --global-icon-color: #{$promenado-white};
 
   .fa-sun {
     padding-left: 10px;
