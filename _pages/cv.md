@@ -49,8 +49,8 @@ Experience
 > ### `Junior R&D Engineer`
 > #### [MOOSE INC.](https://mooseinc.eu/)
 
-* Creating Cloud Computing Architecture for Melanoma Early Detection
-* Training Convolutional Neural Network and Support Vector Machine models for tumor image classification using Keras and Scikit-learn
+* Creating Cloud Computing Architecture
+* Training Convolutional Neural Network and Support Vector Machine models for image classification using Keras and Scikit-learn
 * Using Celery Distributed Task Queue, Flask Web Framework, RabbitMQ Message-broker for multi-container Docker application
 * Cloud Computing team management 
 * Creating technical documentation using Sphinx
@@ -183,7 +183,7 @@ Additional activities
 
 
 * President of the **„Math4you” Students’ Scientific Circle** — 2018-2020
-* Member of the **Students’ Scientific Circle of Biometry, Analysis and Processing of Images and Signals** — 2018-2019
+* Member of the **Students’ Scientific Circle of Biometry, Analysis and Processing of Images and Signals** — 2019-2021
 * Affiliate Member of the Tęczowy Białystok Association (Organizers of the First Equality March in Białystok) — 2018-2021
 * Student of **The Confucius Classroom** at the Bialystok University of Technology — 2017-2021 
     * Participant of **Beijing University of technology Study Internaltional Summer Camp Of 2019** 

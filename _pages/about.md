@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Junior R&D Engineer，Indie Game Developer, <a href="https://www.instagram.com/hirohideyoshi/">Graphic Designer</a>. Presumably human.
+description: Junior R&D Engineer, Indie Game Developer, <a href="https://www.instagram.com/hirohideyoshi/">Graphic Designer</a>. Presumably human.
 
 profile:
   align: right
@@ -17,8 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a software developer from Poland with a passion for computer science and its application in different fields of science. In my work I try to combine technical and artistic approaches to have the best of both worlds. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I earned a Bachelor's degree in Computer Science from the Bialystok University of Technology. While attending BUT, I began my carrer as a Junior R&D Engineer for Moose Inc, creating a cloud computing architecture which uses Computer Vision in Medical Imaging. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Throughout my academic years I was a member of the Students’ Scientific Circle of Biometry, Analysis and Processing of Images and Signals and „Math4you” Students’ Scientific Circle which, later on, I became a president. I have participated in Nationwide Session of Students of Mathematics at Jagiellonian University and many others, local academic conferences and meetings of programming communities, which topics ranged from linear programming and AI to UX\UI. I'm mostly active in PyStok, group of Python enthusiasts who live in Bialystok and surroundings.
+
+My second interest is in the game design. In one-year teamwork project required in curriculum I was an artistic director and programmer of game called UnforgivenParadise. My Bachelor's thesis was to design and implement location-based, educational, puzzle game on mobile devices called Promenado which aims to tell a story about forgotten places and people who lived in Bialystok. It was my first, independent game which prototype is available to play at my [itch.io site][promenado] (password: name of the game in lowercase).
+
+[promenado]: https://hirohideyoshi.itch.io/promenado
