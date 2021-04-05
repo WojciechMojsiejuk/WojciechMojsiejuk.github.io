@@ -2,9 +2,14 @@
 layout: page
 title: graphics
 permalink: /graphics/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 ---
+
+I am a self-taught artist. I'm not very good at it but it doesn't matter. I've started to draw as a child and it just stuck with me. Drawing is what I feel more comfortably with, especially pencil sketches. In my artworks I experimented with many drawing mediums such as sanguine, sepia, charcoal, chalk, colored pencil and pastels. Around 2015 I have started to learn how to paint and I have bought my first drawing tablet. Since then I've tried to paint using oil, acrylics, watercolors and gouache paint. When it comes to Digital Art I have used Adobe Photoshop, Gimp, ClipPaint Studio, Affinity Photo, Affinity Designer at various times. Although it is merely my hobby I do in my spare time, it improved my abilities at designing Web pages and User Interfaces. I have an [Instagram account][instagram] where I post my artistic works.
+
+[instagram]: https://www.instagram.com/hirohideyoshi/
+
 
 <div class="projects grid">
 
