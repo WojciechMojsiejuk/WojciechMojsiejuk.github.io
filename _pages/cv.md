@@ -85,9 +85,6 @@ Technical Skills
 
 Programming Languages
 
-&nbsp;
-&nbsp;
-
 :   **Python:** 
     Since learning it in 2015, Python is my main language in work and academia.
     My work focuses on Computer Vision and Data Visualisation.  
