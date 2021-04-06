@@ -3,7 +3,7 @@ layout: page
 title: Unforgiven Paradise
 description: game for a teamwork project about lost innocence, childhood nostalgia and creatures lurking in the shadows 
 img: /assets/img/unforgivenparadise/game_cover.png
-importance: 2
+importance: 3
 ---
 
 `Unforgiven Paradise` is a game which was created with a collaborative effort of Alicja, Paweł, Jakub, Michał, Piotr, Adrian and I. We were supposed to create something what requires a vast amount of team effort for year-long subject called "Teamwork project".
