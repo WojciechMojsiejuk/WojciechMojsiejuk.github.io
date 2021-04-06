@@ -3,7 +3,7 @@ layout: page
 title: Vector Graphics
 description: 
 img: /assets/img/graphics/vector/grandma.png
-importance: 1
+importance: 2
 ---
 
 <div class="row">

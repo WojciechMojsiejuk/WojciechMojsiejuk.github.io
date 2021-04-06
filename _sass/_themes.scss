@@ -11,6 +11,7 @@
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-icon-color: #{$promenado-black};
+  --global-code-color: #{$promenado-white};
 
   .fa-sun {
     display : none;
@@ -31,6 +32,7 @@ html[data-theme='dark'] {
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-icon-color: #{$promenado-white};
+  --global-code-color: #{$promenado-white};
 
   .fa-sun {
     padding-left: 10px;

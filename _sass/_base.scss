@@ -431,3 +431,17 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
+// Code
+.highlight
+{
+  pre{
+    color: var(--global-code-color);
+  }  
+}
+
+
+blockquote {
+  border-left: .25em solid #dfe2e5;
+  padding: 0 1em;
+}
