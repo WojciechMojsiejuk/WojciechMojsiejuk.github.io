@@ -1500,3 +1500,130 @@ macierz = numpy.asarray(PIL.Image.open('obraz.jpg'))
 W obu przypadkach ważne jest kodowanie obiektów, musimy dostosować by kodowanie w jednej wersji było kompatybilne do kodowania w drugiej wersji, najlepiej operować na kodowaniu **np.uint8** czyli liczbach całkowitych z zakresu 0-255. Jeżeli jest jakiś problem z obrazem w naszym kodzie zawsze warto jest sprawdzić czy aby na pewno korzystamy z dobrego kodowania.
 
 Macierze numpy są wykorzystywane również przez **OpenCV** z tego względu, jest to unikatowy sposób zapisu naszych obrazów. Warto opanować tę umiejętność.
+
+
+# Praca domowa
+
+Spróbuj przygotować wybrany przez siebie wykres na podstawie jakichś danych zebranych w zestawieniu, raporcie, etc. Zbiór danych nie powinien być zbyt duży, ponieważ jeszcze nie opanowaliśmy jak pracować na dużych zbiorach. Porównaj przedstawienie tych samych danych na różnych wykresach. Jakie wykresy pasują do wizualizacji danego zagadnienia?
+
+> Przykładowe raporty:
+  * https://www.theesa.com/esa-research/2020-essential-facts-about-the-video-game-industry/
+  * https://polishgamers.com/
+  * https://gs.statcounter.com/screen-resolution-stats/mobile/worldwide
+  * https://stat.gov.pl/podstawowe-dane/
+  * https://ec.europa.eu/eurostat/web/main/home
+
+**Przykładowe kody:**
+
+```python
+import matplotlib.pyplot as plt
+
+age_group = '16-24', '25-34', '35-44', '45-55'
+
+percentage = [24, 32, 29, 14]
+
+colors = ['orangered',
+          'gold',
+          'lime',
+          'dodgerblue',
+          ]
+
+plt.figure(figsize=(15, 10))
+
+patches = plt.pie(percentage,
+                  colors=colors,
+                  autopct='%1.0f%%',
+                  pctdistance=0.85,
+                  textprops={'fontsize': 25})
+
+plt.legend(age_group, bbox_to_anchor=(1, 1),
+           fontsize=18)
+plt.tight_layout()
+# plt.title("Procentowy udział")
+
+# dodaj koło na środku
+my_circle = plt.Circle((0, 0), 0.7, color='white')
+p = plt.gcf()
+p.gca().add_artist(my_circle)
+
+plt.show()
+```
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0 mx-auto">
+        <img class="img-fluid" src="{{ '/assets/img/teachings/intro_to_d_a/materials/homework1.png' | relative_url }}"/>
+    </div>
+</div>
+
+```python
+
+import matplotlib.pyplot as plt
+
+age_group = '<18', '18-34', '35-54', '55-64', '>64'
+
+percentage = [21, 38, 26, 9, 6]
+
+colors = ['orangered',
+          'gold',
+          'lime',
+          'dodgerblue',
+          'darkorchid'
+          ]
+
+plt.figure(figsize=(15, 10))
+
+patches = plt.pie(percentage,
+                  colors=colors,
+                  autopct='%1.1f%%',
+                  pctdistance=0.85,
+                  textprops={'fontsize': 25})
+
+plt.legend(age_group, bbox_to_anchor=(1, 1),
+           fontsize=18)
+plt.tight_layout()
+# plt.title("Procentowy udział")
+
+# dodaj koło na środku
+my_circle = plt.Circle((0, 0), 0.7, color='white')
+p = plt.gcf()
+p.gca().add_artist(my_circle)
+
+plt.show()
+
+```
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0 mx-auto">
+        <img class="img-fluid" src="{{ '/assets/img/teachings/intro_to_d_a/materials/homework2.png' | relative_url }}"/>
+    </div>
+</div>
+
+```python
+import matplotlib.pyplot as plt
+
+smartphone = [89, 95, 87, 93]
+pc = [64, 76, 86, 88]
+web = [59, 68, 82, 82]
+console = [52, 65, 78, 67]
+social = [57, 48, 78, 83]
+
+
+plt.plot(smartphone, "co:", alpha=0.6, label="Urządzenia mobilne")
+plt.plot(pc, "mv--", alpha=0.6, label="Komputery")
+plt.plot(web, "bs-.", alpha=0.6, label="Przeglądarki internetowe")
+plt.plot(console, "gp:", alpha=0.6, label="Konsole")
+plt.plot(social, "rH--", alpha=0.6, label="Platformy społecznościowe")
+plt.legend()
+plt.xlabel("Przedział wiekowy")
+plt.ylim(0,100)
+plt.xticks(ticks=[0, 1, 2, 3], labels=["do 7 roku życia", "8-10 lat", "11-14 lat", "15-18 lat"])
+plt.ylabel("Udział graczy korzystających z danej platformy")
+plt.yticks(ticks=[0,20,40,60,80,100], labels=["0%","20%","40%","60%","80%","100%"])
+plt.show()
+```
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0 mx-auto">
+        <img class="img-fluid" src="{{ '/assets/img/teachings/intro_to_d_a/materials/homework3.png' | relative_url }}"/>
+    </div>
+</div>
