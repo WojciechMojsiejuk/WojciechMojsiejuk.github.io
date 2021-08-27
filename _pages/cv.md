@@ -11,10 +11,26 @@ Wojciech Mojsiejuk
 
 * * *
 
+
 Education
 ---------
 
 * * *
+
+> 09.2021-07.2023
+> ### `MSc, Data-Centric Engineering`
+> #### Lappeenranta-Lahti University of Technology LUT
+>
+> *Thesis title: Design and implementation of a puzzle video game*
+>
+> Faculty: LUT School of Engineering Science
+>
+> Course of study: Computational Engineering
+>
+> Mode of study: Full time studies
+
+&nbsp;
+&nbsp;
 
 > 09.2017-02.2021
 > ### `BSc, Computer Science`
@@ -185,3 +201,12 @@ Additional activities
 * Student of **The Confucius Classroom** at the Bialystok University of Technology — 2017-2021 
     * Participant of **Beijing University of technology Study Internaltional Summer Camp Of 2019** 
 * Mentor at Erasmus Social Network Politechnika Bialostocka's Mentor Programme 2019-2020
+
+
+
+&nbsp;
+&nbsp;
+
+<sub>
+I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+</sub>
