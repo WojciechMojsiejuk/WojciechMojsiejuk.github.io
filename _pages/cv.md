@@ -21,7 +21,7 @@ Education
 > ### `MSc, Data-Centric Engineering`
 > #### Lappeenranta-Lahti University of Technology LUT
 >
-> *Thesis title: Design and implementation of a puzzle video game*
+<!-- > *Thesis title: Design and implementation of a puzzle video game* -->
 >
 > Faculty: LUT School of Engineering Science
 >
