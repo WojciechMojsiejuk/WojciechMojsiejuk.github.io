@@ -8,7 +8,7 @@ middle_name:
 last_name: Mojsiejuk
 email: wojciechmojsiejuk@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A Wojciech Mojsiejuk's website.
+  A Wojciech Mojsiejuk's website
 footer_text: >
   # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme based on [*folio](https://github.com/bogoli/-folio) design.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,7 +17,7 @@ footer_text: >
 icon: 👨‍💻 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -67,9 +67,9 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My blog  # your blog must have a name for it to show up in the nav bar
-blog_description: updates about current projects & misc
-permalink: /blog/:year/:title/
+# blog_name: My blog  # your blog must have a name for it to show up in the nav bar
+# blog_description: updates about current projects & misc
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -97,6 +97,12 @@ collections:
   teachings:
     output: true
     permalink: /teachings/:path/
+  events:
+    output: true
+    permalink: /events/:path/
+  recommendations:
+    output: true
+    permalink: /recomendations/:path/
 
 news_limit: 5
 

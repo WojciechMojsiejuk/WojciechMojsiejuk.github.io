@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biometrics - Fingerprints Analyzer
-description: fingerprints recognition, minutiae, 
+description: fingerprints recognition, minutiae
 img: /assets/img/biometrics/fp/george-prentzas-SRFG7iwktDk-unsplash.jpg
 importance: 3
 ---

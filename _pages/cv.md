@@ -194,14 +194,15 @@ Additional activities
 
 * * * 
 
-
+* Participant of 1st edition Ars Electronica & Johannes Kepler University's Festival University "Transform your World" - Aug. 30th, 2021 - Sept. 19th, 2021, Linz, Austria.
+* Participant of Games for Impact 2020 -  Dec. 8th - Dec. 11th, 2020
 * President of the **„Math4you” Students’ Scientific Circle** — 2018-2020
 * Member of the **Students’ Scientific Circle of Biometry, Analysis and Processing of Images and Signals** — 2019-2021
 * Affiliate Member of the Tęczowy Białystok Association (Organizers of the First Equality March in Białystok) — 2018-2021
 * Student of **The Confucius Classroom** at the Bialystok University of Technology — 2017-2021 
-    * Participant of **Beijing University of technology Study Internaltional Summer Camp Of 2019** 
+    * Participant of **Beijing University of Technology Study Internaltional Summer Camp Of 2019** 
 * Mentor at Erasmus Social Network Politechnika Bialostocka's Mentor Programme 2019-2020
-
+ 
 
 
 &nbsp;
