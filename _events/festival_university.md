@@ -16,7 +16,7 @@ Photos by <a href="https://www.flickr.com/photos/arselectronica/albums/721577198
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\09-01.jpg' | relative_url }}" alt=""/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/09-01.jpg' | relative_url }}" alt=""/>
     </div>
 </div>
 <div class="caption">
@@ -36,12 +36,13 @@ Additional informations
 
 ***
 
+* [Certificate of attendance][certificate]
 * [Press conference & sneak peek of the documentary I was part of during the Festival University][yt_press]
 * [Press conference - website][press]
 * [Ars Electronica Event Page][ars_electronica]
 * [JKU Event Page][jku]
 
-
+[certificate]:../../assets/pdf/FestivalUniversityCertificate.pdf
 [press]:https://www.jku.at/en/festival-university/media/detail/news/studierende-praesentieren-ihre-ideen-fuer-eine-universitaet-der-zukunft-im-rahmen-der-festival-university-von-jku-und-ars-electronica/
 [jku]:https://www.jku.at/en/festival-university/
 [ars_electronica]:https://ars.electronica.art/newdigitaldeal/en/the-festival-university/
@@ -57,10 +58,10 @@ Gallery
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\51442939531_990784d6ba_o.jpg' | relative_url }}" alt="" />
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/51442939531_990784d6ba_o.jpg' | relative_url }}" alt="" />
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\51483002071_7d6dc87fd5_k.jpg' | relative_url }}" alt="" />
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/51483002071_7d6dc87fd5_k.jpg' | relative_url }}" alt="" />
     </div>
     
 </div>
@@ -69,10 +70,10 @@ Gallery
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\51483001866_f7a9614c5a_k.jpg' | relative_url }}" alt="" />
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/51483001866_f7a9614c5a_k.jpg' | relative_url }}" alt="" />
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\51483230013_0f8ab90392_k.jpg' | relative_url }}" alt="" />
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/51483230013_0f8ab90392_k.jpg' | relative_url }}" alt="" />
     </div>
 </div>
 <div class="caption">
@@ -80,10 +81,10 @@ Gallery
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\51483722119_6fe05fda42_k.jpg' | relative_url }}" alt="" />
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/51483722119_6fe05fda42_k.jpg' | relative_url }}" alt="" />
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\51483924385_39ce4b5dc8_o.jpg' | relative_url }}" alt="" />
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/51483924385_39ce4b5dc8_o.jpg' | relative_url }}" alt="" />
     </div>
 </div>
 <div class="caption">
@@ -92,10 +93,10 @@ Gallery
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\51483924505_41cb29937d_o.jpg' | relative_url }}" alt=""  />
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/51483924505_41cb29937d_o.jpg' | relative_url }}" alt=""  />
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets\img\events\festival_university\51541424442_e0749cf50d_o.jpg' | relative_url }}" alt="" />
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/events/festival_university/51541424442_e0749cf50d_o.jpg' | relative_url }}" alt="" />
     </div>
 </div>
 <div class="caption">
