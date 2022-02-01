@@ -61,6 +61,18 @@ Experience
 
 * * *
 
+> 09.2021 - current
+> ### `Junior Research Assistant`
+> #### [Jamie Hyneman Center - LUT Protolab](https://www.lut.fi/jhc)
+
+* Social Media Manager
+* Photo & Video editing
+* Student aid and assistance in using tools at JHC
+* Learning practical skills, i.a.  sawing, 3d printing, laser cutting, milling
+
+&nbsp;
+&nbsp;
+
 > 08.2019-12.2020
 > ### `Junior R&D Engineer`
 > #### [MOOSE INC.](https://mooseinc.eu/)
