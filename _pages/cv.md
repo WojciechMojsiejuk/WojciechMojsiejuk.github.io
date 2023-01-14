@@ -11,11 +11,18 @@ Wojciech Mojsiejuk
 
 * * *
 
-
 Education
 ---------
 
 * * *
+
+> 09.2022-01.2023
+> ### `Study Exchange`
+> #### Seoul National University of Science and Technology, SeoulTech
+> Faculty: Computer Science and Engineering
+
+&nbsp;
+&nbsp;
 
 > 09.2021-07.2023
 > ### `MSc, Data-Centric Engineering`
