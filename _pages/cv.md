@@ -28,7 +28,7 @@ Education
 > ### `MSc, Data-Centric Engineering`
 > #### Lappeenranta-Lahti University of Technology LUT
 >
-<!-- > *Thesis title: Design and implementation of a puzzle video game* -->
+> *Thesis title: Explainability and Generalizability of Glaucoma Detection Models*
 >
 > Faculty: LUT School of Engineering Science
 >
@@ -68,7 +68,18 @@ Experience
 
 * * *
 
-> 09.2021 - current
+> 06.2023 - 12.2023
+> ### `Junior Research Assistant`
+> #### [LUT Computer Vision and Pattern Recognition Laboratory (CVPRL) ](https://www.lut.fi/en/research-groups/computer-vision-and-pattern-recognition-laboratory-cvprl)
+
+* 'Pattern Recognition and Machine Learning' course preparation
+* Manuscript preparation
+
+&nbsp;
+&nbsp;
+
+
+> 09.2021 - 05.2022
 > ### `Junior Research Assistant`
 > #### [Jamie Hyneman Center - LUT Protolab](https://www.lut.fi/jhc)
 
