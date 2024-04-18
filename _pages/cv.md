@@ -68,6 +68,17 @@ Experience
 
 * * *
 
+> 02.2024 (current)
+> ### `Programmer at Department of Robotics`
+> #### [STEKOP SA](https://stekopsystems.pl/pojazdy-bezzalogowe/)
+
+* Developing multimodal Machine Vision system for Manned-Unmanned Ground Vehicle
+* ROS2 Robotics Development
+
+&nbsp;
+&nbsp;
+
+
 > 06.2023 - 12.2023
 > ### `Junior Research Assistant`
 > #### [LUT Computer Vision and Pattern Recognition Laboratory (CVPRL) ](https://www.lut.fi/en/research-groups/computer-vision-and-pattern-recognition-laboratory-cvprl)
@@ -86,7 +97,7 @@ Experience
 * Social Media Manager
 * Photo & Video editing
 * Student aid and assistance in using tools at JHC
-* Learning practical skills, i.a.  sawing, 3d printing, laser cutting, milling
+* Learning practical skills, i.a. sawing, 3d printing, laser cutting, milling
 
 &nbsp;
 &nbsp;

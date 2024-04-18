@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Junior R&D Engineer, Indie Game Developer, <a href="https://www.instagram.com/hirohideyoshi/">Graphic Designer</a>. Presumably human.
+description: Junior R&D Engineer, Indie Game Developer, Graphic Designer. Presumably human.
 
 profile:
   align: right
